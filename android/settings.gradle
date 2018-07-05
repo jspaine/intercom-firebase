@@ -1,0 +1,7 @@
+rootProject.name = 'intercom2'
+include ':react-native-intercom'
+project(':react-native-intercom').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-intercom/android')
+include ':react-native-push-notification-ce'
+project(':react-native-push-notification-ce').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-push-notification-ce/android')
+
+include ':app'

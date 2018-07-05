@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "313917594814",
+    "firebase_url": "https://rnintercomtest.firebaseio.com",
+    "project_id": "rnintercomtest",
+    "storage_bucket": "rnintercomtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313917594814:android:be947d1d640bcbed",
+        "android_client_info": {
+          "package_name": "com.intercom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313917594814-jar4inire0ri77geis66d182ljp0nm62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1YA1cAjEkMNmsggoIap94QJS9YGM0VE4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313917594814:android:57a3334cb56257c6",
+        "android_client_info": {
+          "package_name": "com.intercom2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313917594814-jar4inire0ri77geis66d182ljp0nm62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1YA1cAjEkMNmsggoIap94QJS9YGM0VE4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
